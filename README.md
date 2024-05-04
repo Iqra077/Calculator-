@@ -1,2 +1,2 @@
 # Simple-Calculator
-HTML and CSS based calculator.
+This calculator has been developed exclusively using HTML and internal CSS.
