@@ -1,2 +1,2 @@
-# Calculator-
-HTML and CSS based calculator 
+# Simple-Calculator
+HTML and CSS based calculator.
